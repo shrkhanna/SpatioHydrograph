@@ -5,9 +5,12 @@
 ##  3. Remove all polygons < 5000 sq.m    ##
 ##  4. Calculate water area per habitat   ##
 ##  5. Output each date map as poly shp   ##
-##  6. Not implemented: Run conditionals  ##
+##  6. Run conditionals                   ##
+##  7. Run landscape metrics              ##
+##  8. Run lateral connectivity metrics   ##
+##  9. Still developing volume estimates  ##
 ##  Developed by Shruti Khanna on 12/5/23 ##
-##       last updated: Dec, 2023          ##
+##       last updated: March, 2026        ##
 ##                                        ##
 ############################################
 
